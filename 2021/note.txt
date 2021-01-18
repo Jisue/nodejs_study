@@ -1,0 +1,13 @@
+# 2021-01-15
+1. REPL 터미널
+- Read
+- Eval : 데이터를 처리 (Evaluate)
+- Print
+- Loop
+
+2. NPM ( Node Package Manager )
+: 탐색 가능한 패키지/모듈 저장소
+: 설치 및 버전/호환성 관리하는 커맨드라인 유틸리티
+
+3. 콜백 평션
+: 넌 블락 코드
